@@ -1,5 +1,5 @@
 
-# Recommendation System Papers Collection
+# Security in Recommendation System Papers Collection
 ### Editor: Yuni LAI
 This collection will includes attack and defense for recommendation system (RS). And also some general ideas that related.  
 
