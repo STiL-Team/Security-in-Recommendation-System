@@ -7,6 +7,7 @@ Contents:
 - Attack
 - Defense
 - General
+- Datasets
 
 ## Attack
 To be filled
@@ -25,3 +26,12 @@ Anomaly detection techniques can be employed in Defense models. Especially Graph
 | Type | Paper names | Link |
 | ------ | ------ | ------|
 |Method|Adversarial Label-Flipping Attack and Defense for Graph Neural Networks|https://ieeexplore.ieee.org/document/9338299|
+
+
+## Datasets in Rcommendation system
+
+| Type | Datasets Name | Link |
+| ------ | ------ | ------|
+| reviews with helpfulness votes | Amazon movie reviews |  https://snap.stanford.edu/data/web-Movies.html ; http://deepyeti.ucsd.edu/jianmo/amazon/index.html |
+| collection|Recommender Systems and Personalization Datasets| https://cseweb.ucsd.edu/~jmcauley/datasets.html |
+
