@@ -12,7 +12,12 @@ Contents:
 ## Attack
 To be filled
 ## Defense
-To be filled
+
+| Type | Paper names | Link | Code|
+| ------ | ------ | ------| ------|
+|Based on user anomaly probability |GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection |https://arxiv.org/abs/2005.10150 | https://github.com/zsjdddhr/GraphRfi |
+
+
 ## General
 ### Graph Anomaly Detection
 Anomaly detection techniques can be employed in Defense models. Especially Graph anomaly detection (GAD). 
