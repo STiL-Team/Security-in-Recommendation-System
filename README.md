@@ -13,9 +13,9 @@ Contents:
 To be filled
 ## Defense
 
-| Type | Paper names | Link | Code|
-| ------ | ------ | ------| ------|
-|Based on user anomaly probability |GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection |https://arxiv.org/abs/2005.10150 | https://github.com/zsjdddhr/GraphRfi |
+| Type | Paper names | Link |
+| ------ | ------ | ------|
+|Based on user anomaly probability |GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection (SIGIR)|https://arxiv.org/abs/2005.10150 ; https://github.com/zsjdddhr/GraphRfi |
 
 
 ## General
