@@ -10,12 +10,17 @@ Contents:
 - Datasets
 
 ## Attack
-To be filled
+
+| Type | Paper names | Link |
+| ------ | ------ | ------|
+|(KDD'21) GAN & influence function|Triple Adversarial Learning for Influence based Poisoning Attack in Recommender Systems |https://dl.acm.org/doi/10.1145/3447548.3467335; https://github.com/Daftstone/TrialAttack |
+
+|(RecSys'20) Iterative gradient descend|Revisiting Adversarially Learned Injection Attacks Against Recommender Systems| https://arxiv.org/abs/2008.04876; https://github.com/graytowne/revisit_adv_rec |
 ## Defense
 
 | Type | Paper names | Link |
 | ------ | ------ | ------|
-|Based on user anomaly probability |GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection (SIGIR)|https://arxiv.org/abs/2005.10150 ; https://github.com/zsjdddhr/GraphRfi |
+|(SIGIR'20) Based on user anomaly probability |GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection |https://arxiv.org/abs/2005.10150 ; https://github.com/zsjdddhr/GraphRfi |
 
 
 ## General
