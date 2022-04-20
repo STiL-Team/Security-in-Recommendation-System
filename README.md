@@ -38,6 +38,6 @@ Anomaly detection techniques can be employed in Defense models. Especially Graph
 | Type | Datasets Name | Link |
 | ------ | ------ | ------|
 | reviews with helpfulness votes | Amazon movie reviews |  https://snap.stanford.edu/data/web-Movies.html ; http://deepyeti.ucsd.edu/jianmo/amazon/index.html |
-| collection|Recommender Systems and Personalization Datasets| https://cseweb.ucsd.edu/~jmcauley/datasets.html |
+| datatset collection|Recommender Systems and Personalization Datasets| https://cseweb.ucsd.edu/~jmcauley/datasets.html |
 |with anomaly labels on ratings|Yelp|https://github.com/zsjdddhr/GraphRfi -> Dataset; http://odds.cs.stonybrook.edu/yelpchi-dataset/|
 
