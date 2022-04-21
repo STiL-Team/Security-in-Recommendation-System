@@ -13,9 +13,10 @@ Contents:
 
 | Type | Paper names | Link |
 | ------ | ------ | ------|
+|(WWW'20)Influence Function|Influence Function based Data Poisoning Attacks to Top-N Recommender Systems|https://arxiv.org/abs/2002.08025|
 |(KDD'21) GAN & influence function|Triple Adversarial Learning for Influence based Poisoning Attack in Recommender Systems |https://dl.acm.org/doi/10.1145/3447548.3467335; https://github.com/Daftstone/TrialAttack |
 |(RecSys'20) Iterative gradient descend | Revisiting Adversarially Learned Injection Attacks Against Recommender Systems| https://arxiv.org/abs/2008.04876; https://github.com/graytowne/revisit_adv_rec |
-|probabilistic generative model; EM and Gradient Descent(KDD'21)|Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data|https://dl.acm.org/doi/abs/10.1145/3447548.3467233|
+|(KDD'21) Probabilistic generative model; EM and Gradient Descent|Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data|https://dl.acm.org/doi/abs/10.1145/3447548.3467233|
 ## Defense
 
 | Type | Paper names | Link |
