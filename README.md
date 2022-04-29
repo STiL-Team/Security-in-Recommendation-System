@@ -44,8 +44,13 @@ Anomaly detection techniques can be employed in Defense models. Especially Graph
 
 | Type | Paper names | Link |
 | ------ | ------ | ------|
-|Method|Adversarial Label-Flipping Attack and Defense for Graph Neural Networks|https://ieeexplore.ieee.org/document/9338299|
+|(ICDM'20) community-preserving; self-supervised|Adversarial Label-Flipping Attack and Defense for Graph Neural Networks|https://ieeexplore.ieee.org/document/9338299|
 
+### Adversarial Training Defending against Poisoning Attack
+| Type | Paper names | Link |
+| ------ | ------ | ------|
+| (ICLR'22 Submitted) ？？ |HOW TO ADVERSARIALLY TRAIN AGAINST
+DATA POISONING|https://arxiv.org/pdf/2102.13624.pdf|
 
 ## Datasets in Rcommendation system
 
