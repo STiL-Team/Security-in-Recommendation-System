@@ -49,8 +49,7 @@ Anomaly detection techniques can be employed in Defense models. Especially Graph
 ### Adversarial Training Defending against Poisoning Attack
 | Type | Paper names | Link |
 | ------ | ------ | ------|
-| (ICLR'22 Submitted) ？？ |HOW TO ADVERSARIALLY TRAIN AGAINST
-DATA POISONING|https://arxiv.org/pdf/2102.13624.pdf|
+| (ICLR'22 Submitted) ？？ |HOW TO ADVERSARIALLY TRAIN AGAINST DATA POISONING|https://arxiv.org/pdf/2102.13624.pdf|
 
 ## Datasets in Rcommendation system
 
