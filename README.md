@@ -14,7 +14,7 @@ Contents:
 | Type | Paper names | Link |
 | ------ | ------ | ------|
 |(ACM Computing Surveys '20) Survey|A Survey on Adversarial Recommender Systems: From Attack/Defense Strategies to Generative Adversarial Networks|https://dl.acm.org/doi/10.1145/3439729|
-|(IEEE Transactions on Knowledge and Data Engineering'19) Adversarial Training Attack|Adversarial Training Towards Robust Multimedia Recommender System|https://ieeexplore.ieee.org/document/8618394|
+|(IEEE Transactions on Knowledge and Data Engineering'19) Adversarial Training|Adversarial Training Towards Robust Multimedia Recommender System|https://ieeexplore.ieee.org/document/8618394|
 |(WWW'20) Influence Function|Influence Function based Data Poisoning Attacks to Top-N Recommender Systems|https://arxiv.org/abs/2002.08025|
 |(KDD'21) GAN & influence function|Triple Adversarial Learning for Influence based Poisoning Attack in Recommender Systems |https://dl.acm.org/doi/10.1145/3447548.3467335; https://github.com/Daftstone/TrialAttack |
 |(RecSys'20) Iterative gradient descend | Revisiting Adversarially Learned Injection Attacks Against Recommender Systems| https://arxiv.org/abs/2008.04876; https://github.com/graytowne/revisit_adv_rec |
