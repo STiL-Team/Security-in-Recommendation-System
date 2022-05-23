@@ -16,7 +16,7 @@ Contents:
 |(CIKM'19)|Data Poisoning Attacks on Cross-domain Recommendation|https://dl.acm.org/doi/abs/10.1145/3357384.3358116|
 |<sup><font color=DarkViolet>1</font></sup>(Resys'19) GAN|Adversarial Attacks on an Oblivious Recommender|https://dl.acm.org/doi/10.1145/3298689.3347031|
 |(ACM Computing Surveys '20) Survey|A Survey on Adversarial Recommender Systems: From Attack/Defense Strategies to Generative Adversarial Networks|https://dl.acm.org/doi/10.1145/3439729|
-|(IEEE Transactions on Knowledge and Data Engineering'19) Adversarial Training|Adversarial Training Towards Robust Multimedia Recommender System|https://ieeexplore.ieee.org/document/8618394|
+|(IEEE TKDE'19) Adversarial Training|Adversarial Training Towards Robust Multimedia Recommender System|https://ieeexplore.ieee.org/document/8618394|
 |<sup>2</sup>(WWW'20) Influence Function|Influence Function based Data Poisoning Attacks to Top-N Recommender Systems|https://arxiv.org/abs/2002.08025|
 |(WWW'20) Reinforcement Learning|Practical Data Poisoning Attack against Next-Item Recommendation|https://dl.acm.org/doi/abs/10.1145/3366423.3379992|
 |<sup>3</sup> (KDD'21) GAN & influence function|Triple Adversarial Learning for Influence based Poisoning Attack in Recommender Systems |https://dl.acm.org/doi/10.1145/3447548.3467335; https://github.com/Daftstone/TrialAttack |
@@ -59,9 +59,12 @@ Anomaly detection techniques can be employed in Defense models. Especially Graph
 | Survey | A Comprehensive Survey on Graph Anomaly Detection with Deep Learning |https://arxiv.org/pdf/2106.07178.pdf|
 |Survey|Shilling attacks against collaborative recommender systems: a review|https://link.springer.com/content/pdf/10.1007/s10462-018-9655-x.pdf|
 |(ICDM'12) Mutual Dependency; Unsupervised; Bipartite|Detecting Anomalies in Bipartite Graphs with Mutual Dependency Principles|https://ieeexplore.ieee.org/document/6413905|
+|(WWW'13) Feature extraction + naïve Bayes + EM Alg.; semi-supervised|Shilling attack detection utilizing semi-supervised learning method for collaborative recommender system|https://link.springer.com/content/pdf/10.1007/s11280-012-0164-6.pdf|
 |*(IJCAI'15) Fraudulent action propagation; Supervised; Bipartite|Catch the Black Sheep: Unified Framework for Shilling Attack Detection Based on Fraudulent Action Propagation|https://dl.acm.org/doi/10.5555/2832581.2832585|
 |(TIFS'17) Features extraction; supervised/unsupervised;|A Network-Based Spam Detection Framework for Reviews in Online Social Media|https://ieeexplore.ieee.org/document/7865975|
-
+|(TKDD'17) Greedy Optimization;Supervised; Bipartite|Graph-Based Fraud Detection in the Face of Camouflage(FRAUDAR)|https://dl.acm.org/doi/10.1145/3056563|
+|(CIKM'20)GNN; Supervised; Bipartite|Error-Bounded Graph Anomaly Loss for GNNs|https://dl.acm.org/doi/pdf/10.1145/3340531.3411979|
+|(ICDE'21)Ensemble; Bipartite; Subgraph anomaly detection|EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph|https://www.computer.org/csdl/proceedings-article/icde/2021/918400c039/1uGXnraYpck|
 
 ### Label Flipping Defense
 
