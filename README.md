@@ -57,6 +57,7 @@ Anomaly detection techniques can be employed in Defense models. Especially Graph
 | Type | Paper names | Link |
 | ------ | ------ | ------|
 | Survey | A Comprehensive Survey on Graph Anomaly Detection with Deep Learning |https://arxiv.org/pdf/2106.07178.pdf|
+|Survey|Shilling attacks against collaborative recommender systems: a review|https://link.springer.com/content/pdf/10.1007/s10462-018-9655-x.pdf|
 |(ICDM'12) Mutual Dependency; Unsupervised; Bipartite|Detecting Anomalies in Bipartite Graphs with Mutual Dependency Principles|https://ieeexplore.ieee.org/document/6413905|
 |*(IJCAI'15) Fraudulent action propagation; Supervised; Bipartite|Catch the Black Sheep: Unified Framework for Shilling Attack Detection Based on Fraudulent Action Propagation|https://dl.acm.org/doi/10.5555/2832581.2832585|
 |(TIFS'17) Features extraction; supervised/unsupervised;|A Network-Based Spam Detection Framework for Reviews in Online Social Media|https://ieeexplore.ieee.org/document/7865975|
