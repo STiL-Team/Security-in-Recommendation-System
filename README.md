@@ -64,7 +64,7 @@ Anomaly detection techniques can be employed in Defense models. Especially Graph
 |(TIFS'17) Features extraction; supervised/unsupervised;|A Network-Based Spam Detection Framework for Reviews in Online Social Media|https://ieeexplore.ieee.org/document/7865975|
 |(TKDD'17) Greedy Optimization;Unsupervised; Bipartite|Graph-Based Fraud Detection in the Face of Camouflage(FRAUDAR)|https://dl.acm.org/doi/10.1145/3056563|
 |(CIKM'20)GNN; Supervised; Bipartite|Error-Bounded Graph Anomaly Loss for GNNs|https://dl.acm.org/doi/pdf/10.1145/3340531.3411979|
-|(ICDE'21)Ensemble; Bipartite; Subgraph anomaly detection|EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph|https://www.computer.org/csdl/proceedings-article/icde/2021/918400c039/1uGXnraYpck|
+|(ICDE'21)Ensemble; Unsupervised; Bipartite; Subgraph anomaly detection|EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph|https://www.computer.org/csdl/proceedings-article/icde/2021/918400c039/1uGXnraYpck|
 
 ### Label Flipping Defense
 
