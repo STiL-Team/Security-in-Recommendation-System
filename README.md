@@ -35,7 +35,7 @@ Contents:
 | ------ | ------ | ------|
 |<sup>1</sup>| Rating distribution evalueated only, no detection alg. |Adversarial Training in GAN|
 |<sup>2</sup> | Featrue extraction + SVM as anomaly detection | Filler item ratings ~ original distribution|
-|<sup>3</sup>|GAN- Discriminator|Adversarial Training|
+|<sup>3</sup>|Fraudulent action propagation|Adversarial Training in GAN|
 |<sup>3</sup>|Featrue extraction + SVM as anomaly detection|Copy real profiles|
 
 
