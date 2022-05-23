@@ -52,7 +52,7 @@ Contents:
 
 ## General
 ### Graph Anomaly Detection
-Anomaly detection techniques can be employed in Defense models. Especially Graph anomaly detection (GAD). 
+Anomaly detection techniques can be employed in Defense models. Especially Graph anomaly detection (GAD) on Bipartite Graph. 
 
 | Type | Paper names | Link |
 | ------ | ------ | ------|
