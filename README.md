@@ -30,6 +30,7 @@ Contents:
 |<sup>4</sup>(ICDE'21)Copy-profile; reinforcement learning|Attacking Black-box Recommendations via Copying Cross-domain User Profiles|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458627|
 
 
+###Deal with Unnoticeable
 | Notes | Anomaly Detection | Unnoticable strategy |
 | ------ | ------ | ------|
 |<sup>1</sup>| Rating distribution evalueated only, no detection alg. |Adversarial Training in GAN|
