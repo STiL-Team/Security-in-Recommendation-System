@@ -13,9 +13,9 @@ Contents:
 
 | Type | Paper names | Link |
 | ------ | ------ | ------|
+|(ACM Computing Surveys '20) Survey|A Survey on Adversarial Recommender Systems: From Attack/Defense Strategies to Generative Adversarial Networks|https://dl.acm.org/doi/10.1145/3439729|
 |(CIKM'19)|Data Poisoning Attacks on Cross-domain Recommendation|https://dl.acm.org/doi/abs/10.1145/3357384.3358116|
 |<sup><font color=DarkViolet>1</font></sup>(Resys'19) GAN|Adversarial Attacks on an Oblivious Recommender|https://dl.acm.org/doi/10.1145/3298689.3347031|
-|(ACM Computing Surveys '20) Survey|A Survey on Adversarial Recommender Systems: From Attack/Defense Strategies to Generative Adversarial Networks|https://dl.acm.org/doi/10.1145/3439729|
 |(IEEE TKDE'19) Adversarial Training|Adversarial Training Towards Robust Multimedia Recommender System|https://ieeexplore.ieee.org/document/8618394|
 |<sup>2</sup>(WWW'20) Influence Function|Influence Function based Data Poisoning Attacks to Top-N Recommender Systems|https://arxiv.org/abs/2002.08025|
 |(WWW'20) Reinforcement Learning|Practical Data Poisoning Attack against Next-Item Recommendation|https://dl.acm.org/doi/abs/10.1145/3366423.3379992|
@@ -56,8 +56,8 @@ Anomaly detection techniques can be employed in Defense models. Especially Graph
 
 | Type | Paper names | Link |
 | ------ | ------ | ------|
-| Survey | A Comprehensive Survey on Graph Anomaly Detection with Deep Learning |https://arxiv.org/pdf/2106.07178.pdf|
-|Survey|Shilling attacks against collaborative recommender systems: a review|https://link.springer.com/content/pdf/10.1007/s10462-018-9655-x.pdf|
+|Survey(2020)|Shilling attacks against collaborative recommender systems: a review|https://link.springer.com/content/pdf/10.1007/s10462-018-9655-x.pdf|
+|Survey(2021)| A Comprehensive Survey on Graph Anomaly Detection with Deep Learning |https://arxiv.org/pdf/2106.07178.pdf|
 |(ICDM'12) Mutual Dependency; Unsupervised; Bipartite|Detecting Anomalies in Bipartite Graphs with Mutual Dependency Principles|https://ieeexplore.ieee.org/document/6413905|
 |(WWW'13) Feature extraction + naïve Bayes + EM Alg.; semi-supervised|Shilling attack detection utilizing semi-supervised learning method for collaborative recommender system|https://link.springer.com/content/pdf/10.1007/s11280-012-0164-6.pdf|
 |*(IJCAI'15) Fraudulent action propagation; Supervised; Bipartite|Catch the Black Sheep: Unified Framework for Shilling Attack Detection Based on Fraudulent Action Propagation|https://dl.acm.org/doi/10.5555/2832581.2832585|
