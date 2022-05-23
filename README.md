@@ -24,7 +24,6 @@ Contents:
 |(SIGIR'20) Reinforcement Learning|Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems|https://arxiv.org/abs/2006.07934|
 |(SIGIR'20) |Data Poisoning Attacks against Differentially Private Recommender Systems|https://dl.acm.org/doi/abs/10.1145/3397271.3401301|
 |(ICDE'20) RL |PoisonRec:An Adaptive Data Poisoning Framework for Attacking Black-box Recommender Systems|https://ieeexplore.ieee.org/abstract/document/9101655|
-
 |(KDD'21) Probabilistic generative model; EM and Gradient Descent|Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data|https://dl.acm.org/doi/abs/10.1145/3447548.3467233|
 |(Information Sciences 2021) GAN|Ready for Emerging Threats to Recommender Systems? A Graph Convolution-based Generative Shilling Attack|https://arxiv.org/abs/2107.10457|
 |(CCS'21) Black-box|Reverse Attack: Black-box Attacks on Collaborative Recommendation|https://dl.acm.org/doi/abs/10.1145/3460120.3484805|
