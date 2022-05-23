@@ -12,14 +12,26 @@ Contents:
 ## Attack
 
 | Type | Paper names | Link |
-| ------ | ------ | ------|
+| ------ | ------ | ------| ------|
+|(CIKM'19)|Data Poisoning Attacks on Cross-domain Recommendation|https://dl.acm.org/doi/abs/10.1145/3357384.3358116|
+|<sup>1</sup>(Resys'19) GAN|Adversarial Attacks on an Oblivious Recommender|https://dl.acm.org/doi/10.1145/3298689.3347031|
 |(ACM Computing Surveys '20) Survey|A Survey on Adversarial Recommender Systems: From Attack/Defense Strategies to Generative Adversarial Networks|https://dl.acm.org/doi/10.1145/3439729|
 |(IEEE Transactions on Knowledge and Data Engineering'19) Adversarial Training|Adversarial Training Towards Robust Multimedia Recommender System|https://ieeexplore.ieee.org/document/8618394|
-|(WWW'20) Influence Function|Influence Function based Data Poisoning Attacks to Top-N Recommender Systems|https://arxiv.org/abs/2002.08025|
-|(KDD'21) GAN & influence function|Triple Adversarial Learning for Influence based Poisoning Attack in Recommender Systems |https://dl.acm.org/doi/10.1145/3447548.3467335; https://github.com/Daftstone/TrialAttack |
+|<sup>2</sup>(WWW'20) Influence Function|Influence Function based Data Poisoning Attacks to Top-N Recommender Systems|https://arxiv.org/abs/2002.08025|
+|(WWW'20) Reinforcement Learning|Practical Data Poisoning Attack against Next-Item Recommendation|https://dl.acm.org/doi/abs/10.1145/3366423.3379992|
+|<sup>3</sup> (KDD'21) GAN & influence function|Triple Adversarial Learning for Influence based Poisoning Attack in Recommender Systems |https://dl.acm.org/doi/10.1145/3447548.3467335; https://github.com/Daftstone/TrialAttack |
 |(RecSys'20) Iterative gradient descend | Revisiting Adversarially Learned Injection Attacks Against Recommender Systems| https://arxiv.org/abs/2008.04876; https://github.com/graytowne/revisit_adv_rec |
-|(KDD'21) Probabilistic generative model; EM and Gradient Descent|Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data|https://dl.acm.org/doi/abs/10.1145/3447548.3467233|
 |(SIGIR'20) Reinforcement Learning|Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems|https://arxiv.org/abs/2006.07934|
+|(SIGIR'20) |Data Poisoning Attacks against Differentially Private Recommender Systems|https://dl.acm.org/doi/abs/10.1145/3397271.3401301|
+|(KDD'21) Probabilistic generative model; EM and Gradient Descent|Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data|https://dl.acm.org/doi/abs/10.1145/3447548.3467233|
+|(Information Sciences 2021) GAN|Ready for Emerging Threats to Recommender Systems? A Graph Convolution-based Generative Shilling Attack|https://arxiv.org/abs/2107.10457|
+
+| Notes | Anomaly Detection | Unnoticable strategy |
+| ------ | ------ | ------| ------|
+|<sup>1</sup>| Rating distribution evalueated only, no detection alg. |Adversarial Training in GAN|
+|<sup>2</sup> | Featrue extraction + SVM as anomaly detection | Filler item ratings ~ original distribution|
+|<sup>3</sup>|GAN- Discriminator|Adversarial Training|
+
 
 
 
