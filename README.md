@@ -14,7 +14,7 @@ Contents:
 | Type | Paper names | Link |
 | ------ | ------ | ------|
 |(CIKM'19)|Data Poisoning Attacks on Cross-domain Recommendation|https://dl.acm.org/doi/abs/10.1145/3357384.3358116|
-|<sup>1</sup>(Resys'19) GAN|Adversarial Attacks on an Oblivious Recommender|https://dl.acm.org/doi/10.1145/3298689.3347031|
+|<sup><font color=Blue>1</font></sup>(Resys'19) GAN|Adversarial Attacks on an Oblivious Recommender|https://dl.acm.org/doi/10.1145/3298689.3347031|
 |(ACM Computing Surveys '20) Survey|A Survey on Adversarial Recommender Systems: From Attack/Defense Strategies to Generative Adversarial Networks|https://dl.acm.org/doi/10.1145/3439729|
 |(IEEE Transactions on Knowledge and Data Engineering'19) Adversarial Training|Adversarial Training Towards Robust Multimedia Recommender System|https://ieeexplore.ieee.org/document/8618394|
 |<sup>2</sup>(WWW'20) Influence Function|Influence Function based Data Poisoning Attacks to Top-N Recommender Systems|https://arxiv.org/abs/2002.08025|
@@ -27,7 +27,7 @@ Contents:
 |(Information Sciences 2021) GAN|Ready for Emerging Threats to Recommender Systems? A Graph Convolution-based Generative Shilling Attack|https://arxiv.org/abs/2107.10457|
 
 | Notes | Anomaly Detection | Unnoticable strategy |
-| ------ | ------ | ------| ------|
+| ------ | ------ | ------|
 |<sup>1</sup>| Rating distribution evalueated only, no detection alg. |Adversarial Training in GAN|
 |<sup>2</sup> | Featrue extraction + SVM as anomaly detection | Filler item ratings ~ original distribution|
 |<sup>3</sup>|GAN- Discriminator|Adversarial Training|
