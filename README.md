@@ -25,9 +25,9 @@ Contents:
 |(SIGIR'20) |Data Poisoning Attacks against Differentially Private Recommender Systems|https://dl.acm.org/doi/abs/10.1145/3397271.3401301|
 |(ICDE'20) Reinforcement Learning |PoisonRec:An Adaptive Data Poisoning Framework for Attacking Black-box Recommender Systems|https://ieeexplore.ieee.org/abstract/document/9101655|
 |(KDD'21) Probabilistic generative model; EM and Gradient Descent|Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data|https://dl.acm.org/doi/abs/10.1145/3447548.3467233|
-|(Information Sciences 2021) GAN|Ready for Emerging Threats to Recommender Systems? A Graph Convolution-based Generative Shilling Attack|https://arxiv.org/abs/2107.10457|
+|<sup>4</sup>(Information Sciences 2021) GAN|Ready for Emerging Threats to Recommender Systems? A Graph Convolution-based Generative Shilling Attack|https://arxiv.org/abs/2107.10457|
 |(CCS'21) Black-box|Reverse Attack: Black-box Attacks on Collaborative Recommendation|https://dl.acm.org/doi/abs/10.1145/3460120.3484805|
-|<sup>4</sup>(ICDE'21)Copy-profile; reinforcement learning|Attacking Black-box Recommendations via Copying Cross-domain User Profiles|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458627|
+|<sup>5</sup>(ICDE'21)Copy-profile; reinforcement learning|Attacking Black-box Recommendations via Copying Cross-domain User Profiles|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458627|
 
 
 **Deal with Unnoticeable**
@@ -36,7 +36,8 @@ Contents:
 |<sup>1</sup>| Rating distribution evalueated only, no detection alg. |Adversarial Training in GAN|
 |<sup>2</sup> | Featrue extraction + SVM as anomaly detection | Filler item ratings ~ original distribution|
 |<sup>3</sup>|Fraudulent action propagation|Adversarial Training in GAN|
-|<sup>4</sup>|Featrue extraction + SVM as anomaly detection|Copy real profiles|
+|<sup>4</sup>|PCASelectUsers,SemiSAD, DegreeSAD|Adversarial Training in GAN|
+|<sup>5</sup>|Featrue extraction + SVM as anomaly detection|Copy real profiles|
 
 
 
@@ -58,9 +59,13 @@ Anomaly detection techniques can be employed in Defense models. Especially Graph
 | ------ | ------ | ------|
 |Survey(2020)|Shilling attacks against collaborative recommender systems: a review|https://link.springer.com/content/pdf/10.1007/s10462-018-9655-x.pdf|
 |Survey(2021)| A Comprehensive Survey on Graph Anomaly Detection with Deep Learning |https://arxiv.org/pdf/2106.07178.pdf|
+|(User Modeling and User-Adapted Interaction'09) PCASelectUsers; Unsupervised;Bipartite |Unsupervised strategies for shilling detection and robust collaborative filtering|https://link.springer.com/article/10.1007/s11257-008-9050-4|
+|(RecSys’11) SemiSAD; Semi-Suppervised;Bipartite|Semi-SAD: Applying Semi-supervised Learning to Shilling
+Attack Detection|https://dl.acm.org/doi/pdf/10.1145/2043932.2043985|
 |(ICDM'12) Mutual Dependency; Unsupervised; Bipartite|Detecting Anomalies in Bipartite Graphs with Mutual Dependency Principles|https://ieeexplore.ieee.org/document/6413905|
 |(WWW'13) Feature extraction + naïve Bayes + EM Alg.; semi-supervised|Shilling attack detection utilizing semi-supervised learning method for collaborative recommender system|https://link.springer.com/content/pdf/10.1007/s11280-012-0164-6.pdf|
 |*(IJCAI'15) Fraudulent action propagation; Supervised; Bipartite|Catch the Black Sheep: Unified Framework for Shilling Attack Detection Based on Fraudulent Action Propagation|https://dl.acm.org/doi/10.5555/2832581.2832585|
+|(IEICE Trans Info Syst. '16) PopSAD; Supervised;Bipartite|Shilling Attack Detection in Recommender Systems via Selecting Patterns Analysis|https://www.jstage.jst.go.jp/article/transinf/E99.D/10/E99.D_2015EDP7500/_pdf/-char/en|
 |(TIFS'17) Features extraction; supervised/unsupervised;|A Network-Based Spam Detection Framework for Reviews in Online Social Media|https://ieeexplore.ieee.org/document/7865975|
 |(TKDD'17) Greedy Optimization;Unsupervised; Bipartite|Graph-Based Fraud Detection in the Face of Camouflage(FRAUDAR)|https://dl.acm.org/doi/10.1145/3056563|
 |(CIKM'20)GNN; Supervised; Bipartite|Error-Bounded Graph Anomaly Loss for GNNs|https://dl.acm.org/doi/pdf/10.1145/3340531.3411979|
