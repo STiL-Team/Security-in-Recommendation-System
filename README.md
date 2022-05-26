@@ -64,9 +64,11 @@ Anomaly detection techniques can be employed in Defense models. Especially Graph
 |(ICDM'12) Mutual Dependency; Unsupervised; Bipartite|Detecting Anomalies in Bipartite Graphs with Mutual Dependency Principles|https://ieeexplore.ieee.org/document/6413905|
 |(WWW'13) Feature extraction + naïve Bayes + EM Alg.; semi-supervised|Shilling attack detection utilizing semi-supervised learning method for collaborative recommender system|https://link.springer.com/content/pdf/10.1007/s11280-012-0164-6.pdf|
 |*(IJCAI'15) Fraudulent action propagation; Supervised; Bipartite|Catch the Black Sheep: Unified Framework for Shilling Attack Detection Based on Fraudulent Action Propagation|https://dl.acm.org/doi/10.5555/2832581.2832585|
-|(IEICE Trans Info Syst. '16) PopSAD; Supervised;Bipartite|Shilling Attack Detection in Recommender Systems via Selecting Patterns Analysis|https://www.jstage.jst.go.jp/article/transinf/E99.D/10/E99.D_2015EDP7500/_pdf/-char/en|
+|(IEICE Trans Info Syst. '16) PopSAD/DegreeSAD; Supervised;Bipartite|Shilling Attack Detection in Recommender Systems via Selecting Patterns Analysis|https://www.jstage.jst.go.jp/article/transinf/E99.D/10/E99.D_2015EDP7500/_pdf/-char/en|
 |(TIFS'17) Features extraction; supervised/unsupervised;|A Network-Based Spam Detection Framework for Reviews in Online Social Media|https://ieeexplore.ieee.org/document/7865975|
 |(TKDD'17) Greedy Optimization;Unsupervised; Bipartite|Graph-Based Fraud Detection in the Face of Camouflage(FRAUDAR)|https://dl.acm.org/doi/10.1145/3056563|
+|(CORR'18)OFD;Supervised;Bipartite; Neural Random Forest; Autoencoder|Opinion Fraud Detection via Neural Autoencoder Decision Forest|https://arxiv.org/pdf/1805.03379.pdf|
+|(WSDM'18) Fairness&Reliability; Supervised/Unsupervised;Bipartite;|REV2: Fraudulent User Prediction in Rating Platforms|https://dl.acm.org/doi/pdf/10.1145/3159652.3159729|
 |(CIKM'20)GNN; Supervised; Bipartite|Error-Bounded Graph Anomaly Loss for GNNs|https://dl.acm.org/doi/pdf/10.1145/3340531.3411979|
 |(ICDE'21)Ensemble; Unsupervised; Bipartite; Subgraph anomaly detection|EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph|https://www.computer.org/csdl/proceedings-article/icde/2021/918400c039/1uGXnraYpck|
 
