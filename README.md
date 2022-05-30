@@ -35,7 +35,7 @@ Contents:
 | ------ | ------ | ------|
 |<sup>1</sup>| Rating distribution evalueated only, no detection alg. |Adversarial Training in GAN|
 |<sup>2</sup> | Featrue extraction + SVM as anomaly detection | Filler item ratings ~ original distribution|
-|<sup>3</sup>|Fraudulent action propagation|Adversarial Training in GAN|
+|<sup>3</sup>|Fraudulent action propagation (FAP)|Adversarial Training in GAN|
 |<sup>4</sup>|PCASelectUsers,SemiSAD, DegreeSAD|Adversarial Training in GAN|
 |<sup>5</sup>|Featrue extraction + SVM as anomaly detection|Copy real profiles|
 
@@ -63,7 +63,7 @@ Anomaly detection techniques can be employed in Defense models. Especially Graph
 |(RecSys’11) SemiSAD; Semi-Suppervised;Bipartite|Semi-SAD: Applying Semi-supervised Learning to Shilling Attack Detection|https://dl.acm.org/doi/pdf/10.1145/2043932.2043985|
 |(ICDM'12) Mutual Dependency; Unsupervised; Bipartite|Detecting Anomalies in Bipartite Graphs with Mutual Dependency Principles|https://ieeexplore.ieee.org/document/6413905|
 |(WWW'13) Feature extraction + naïve Bayes + EM Alg.; semi-supervised|Shilling attack detection utilizing semi-supervised learning method for collaborative recommender system|https://link.springer.com/content/pdf/10.1007/s11280-012-0164-6.pdf|
-|(IJCAI'15) Fraudulent action propagation; Supervised; Bipartite|Catch the Black Sheep: Unified Framework for Shilling Attack Detection Based on Fraudulent Action Propagation|https://dl.acm.org/doi/10.5555/2832581.2832585|
+|(IJCAI'15) (FAP) Fraudulent action propagation; Supervised; Bipartite|Catch the Black Sheep: Unified Framework for Shilling Attack Detection Based on Fraudulent Action Propagation|https://dl.acm.org/doi/10.5555/2832581.2832585|
 |(IEICE Trans Info Syst. '16) PopSAD/DegreeSAD; Supervised;Bipartite|Shilling Attack Detection in Recommender Systems via Selecting Patterns Analysis|https://www.jstage.jst.go.jp/article/transinf/E99.D/10/E99.D_2015EDP7500/_pdf/-char/en|
 |(TIFS'17) Features extraction; supervised/unsupervised;|A Network-Based Spam Detection Framework for Reviews in Online Social Media|https://ieeexplore.ieee.org/document/7865975|
 |(TKDD'17) Greedy Optimization;Unsupervised; Bipartite|Graph-Based Fraud Detection in the Face of Camouflage(FRAUDAR)|https://dl.acm.org/doi/10.1145/3056563|
