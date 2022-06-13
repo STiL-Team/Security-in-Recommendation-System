@@ -54,8 +54,8 @@ Contents:
 |(ICAICA'21)Bipartite;Struc2Vec|User embedding-based approach for detecting group shilling attacks|https://ieeexplore.ieee.org/document/9497956|
 |(ICAICA'21)Bipartite;Dual-input CNN|Detecting group shilling attacks in recommender systems based on maximum dense subtensor mining|https://ieeexplore.ieee.org/document/9498095|
 |(Neurocomputing'22)|A deep learning based trust- and tag-aware recommender system|https://www.sciencedirect.com/science/article/pii/S0925231221017410|
-|(SIGIR'22)Implicit feedback|Self-Guided Learning to Denoise for Robust Recommendation|https://arxiv.org/abs/2204.06832|
-|(JCDL'22)Causal features; Distributional shifts|Causal Factorization Machine for Robust Recommendation|https://dl.acm.org/doi/abs/10.1145/3529372.3530921|
+<!-- |(SIGIR'22)Implicit feedback|Self-Guided Learning to Denoise for Robust Recommendation|https://arxiv.org/abs/2204.06832|
+|(JCDL'22)Causal features; Distributional shifts|Causal Factorization Machine for Robust Recommendation|https://dl.acm.org/doi/abs/10.1145/3529372.3530921| -->
 
 
 ## General
