@@ -50,7 +50,7 @@ Contents:
 |(Surveys,2022)|Threats to Training: A Survey of Poisoning Atacks and Defenses on Machine Learning Systems|https://dl.acm.org/doi/pdf/10.1145/3538707|
 |(SIGIR'20) Based on user anomaly probability |GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection |https://arxiv.org/abs/2005.10150 ; https://github.com/zsjdddhr/GraphRfi |
 |(SPAI'20)|The Majority Rule: A General Protection on Recommender System|https://dl.acm.org/doi/10.1145/3385003.3410923|
-|(SIGIR'21)Adversarial Poisoning Training|Fight Fire with Fire: Towards Robust Recommender Systems via Adversarial Poisoning Training |https://dl.acm.org/doi/10.1145/3404835.3462914|
+|(SIGIR'21)* Adversarial Poisoning Training|Fight Fire with Fire: Towards Robust Recommender Systems via Adversarial Poisoning Training |https://dl.acm.org/doi/10.1145/3404835.3462914|
 |(ICAICA'21) Struc2Vec|User embedding-based approach for detecting group shilling attacks|https://ieeexplore.ieee.org/document/9497956|
 |(ICAICA'21) Dual-input CNN|Detecting group shilling attacks in recommender systems based on maximum dense subtensor mining|https://ieeexplore.ieee.org/document/9498095|
 |(Neurocomputing'22)|A deep learning based trust- and tag-aware recommender system|https://www.sciencedirect.com/science/article/pii/S0925231221017410|
