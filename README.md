@@ -28,7 +28,7 @@ Contents:
 |<sup>4</sup>(Information Sciences 2021) GAN|Ready for Emerging Threats to Recommender Systems? A Graph Convolution-based Generative Shilling Attack|https://arxiv.org/abs/2107.10457|
 |(CCS'21) Black-box|Reverse Attack: Black-box Attacks on Collaborative Recommendation|https://dl.acm.org/doi/abs/10.1145/3460120.3484805|
 |<sup>5</sup>(ICDE'21)Copy-profile; reinforcement learning|Attacking Black-box Recommendations via Copying Cross-domain User Profiles|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458627|
-
+|(NDSS'21) rating score vector|Data Poisoning Attacks to Deep Learning Based Recommender Systems|https://arxiv.org/pdf/2101.02644.pdf|
 
 **Deal with Unnoticeable**
 | Notes | Anomaly Detection | Unnoticable strategy |
