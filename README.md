@@ -22,7 +22,6 @@ Contents:
 
 | Type | Paper names | Link |
 | ------ | ------ | ------|
-
 |(CIKM'19)|Data Poisoning Attacks on Cross-domain Recommendation|[paper](https://dl.acm.org/doi/abs/10.1145/3357384.3358116)|
 |<sup><font color=DarkViolet>1</font></sup>(Resys'19) GAN|Adversarial Attacks on an Oblivious Recommender|[paper](https://dl.acm.org/doi/10.1145/3298689.3347031)|
 |<sup>2</sup>(WWW'20) Influence Function|Influence Function based Data Poisoning Attacks to Top-N Recommender Systems|[paper](https://arxiv.org/abs/2002.08025)|
