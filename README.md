@@ -74,6 +74,7 @@ Contents:
 |(CIKM'22) sensitivity study|Rank List Sensitivity of Recommender Systems to Interaction Perturbations|[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557425)|
 |(TIFS'22)|Three Birds With One Stone: User Intention Understanding and Influential Neighbor Disclosure for Injection Attack Detection|[paper](https://ieeexplore.ieee.org/abstract/document/9693911?casa_token=RN8HT_MiB3gAAAAA:xWAT4bkkWkbzYjlld0l63rLleBsQh1x3bVB8LuLfOwoYiRtAFbTAIpdNPR-TDIOWMIkZjl6E)|
 |(WISE'22)|Towards Robust Recommender Systems via Triple Cooperative Defense|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20891-1_40)|
+|(WDSM'22)robustness evaluation|RGRecSys: A Toolkit for Robustness Evaluation of Recommender Systems|[paper](https://dl.acm.org/doi/abs/10.1145/3488560.3502192?casa_token=HDjA5oxaCW4AAAAA:QxiN8eLBzvQeRk-8pJVv_YjM-c9W9V0KFjppPTloqtYUsAIB4fYSlsYZ59gRRwS5A0JpfCGFRgwv)|
 
 ## General
 ### Graph Anomaly Detection
