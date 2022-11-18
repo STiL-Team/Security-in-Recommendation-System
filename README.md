@@ -18,6 +18,8 @@ Contents:
 |(2022)|Threats to Training: A Survey of Poisoning Atacks and Defenses on Machine Learning Systems|[paper](https://dl.acm.org/doi/pdf/10.1145/3538707)|
 |(2022)|Adversarial Recommender Systems: Attack, Defense, and Advances|[paper](https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_9)|
 |(2022)|A Comprehensive Survey on Trustworthy Recommender Systems|[paper](https://arxiv.org/pdf/2209.10117.pdf)|
+|(2022)|A survey on trustworthy recommender systems|[paper](https://arxiv.org/pdf/2207.12515.pdf)|
+|(2022)|A survey for trust-aware recommender systems: A deep learning perspective|[paper](https://www.sciencedirect.com/science/article/pii/S0950705122004622?casa_token=csIwtqQxm9IAAAAA:iV7C7YKQ2tDY3oay2WmHrpRGFyZOWKzaQLbykYe0DWe0G3pfTz05jAVeDm6PAEqb3lC5gQG4)|
 |(2022)|Latest trends of security and privacy in recommender systems: A comprehensive review and future perspectives|[paper](https://www.sciencedirect.com/science/article/pii/S0167404822001419)|
 ## Attack
 
@@ -76,6 +78,9 @@ Contents:
 |(TIFS'22)|Three Birds With One Stone: User Intention Understanding and Influential Neighbor Disclosure for Injection Attack Detection|[paper](https://ieeexplore.ieee.org/abstract/document/9693911?casa_token=RN8HT_MiB3gAAAAA:xWAT4bkkWkbzYjlld0l63rLleBsQh1x3bVB8LuLfOwoYiRtAFbTAIpdNPR-TDIOWMIkZjl6E)|
 |(WISE'22)|Towards Robust Recommender Systems via Triple Cooperative Defense|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20891-1_40)|
 |(WDSM'22)robustness evaluation|RGRecSys: A Toolkit for Robustness Evaluation of Recommender Systems|[paper](https://dl.acm.org/doi/abs/10.1145/3488560.3502192?casa_token=HDjA5oxaCW4AAAAA:QxiN8eLBzvQeRk-8pJVv_YjM-c9W9V0KFjppPTloqtYUsAIB4fYSlsYZ59gRRwS5A0JpfCGFRgwv)|
+|(RecSys'22)|Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders|[paper](https://dl.acm.org/doi/fullHtml/10.1145/3523227.3546770)|
+|(RecSys'22)|Adversary or Friend? An adversarial Approach to Improving Recommender Systems|[paper](https://dl.acm.org/doi/abs/10.1145/3523227.3546784)|
+|(SIGIR'22)|Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering|[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531889?casa_token=FPJzUmj5p_EAAAAA:H0ho5yfn8noBLvfUTKdLC5C3bzbQfmiVUTfM3AAtyoLpPpPlKWJEwnP522d2Icr_WTTzptIz-b1E)|
 
 ## General
 ### Graph Anomaly Detection
