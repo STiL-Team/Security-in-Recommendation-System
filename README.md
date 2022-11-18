@@ -19,11 +19,11 @@ Contents:
 |(IEEE TKDE'19) Adversarial Training|Adversarial Training Towards Robust Multimedia Recommender System|[paper](https://ieeexplore.ieee.org/document/8618394)|
 |<sup>2</sup>(WWW'20) Influence Function|Influence Function based Data Poisoning Attacks to Top-N Recommender Systems|[paper](https://arxiv.org/abs/2002.08025)|
 |(WWW'20) Reinforcement Learning|Practical Data Poisoning Attack against Next-Item Recommendation|[paper](https://dl.acm.org/doi/abs/10.1145/3366423.3379992)|
-|<sup>3</sup> (KDD'21) GAN & influence function|Triple Adversarial Learning for Influence based Poisoning Attack in Recommender Systems |[paper](https://dl.acm.org/doi/10.1145/3447548.3467335); [code](https://github.com/Daftstone/TrialAttack) |
 |(RecSys'20) Iterative gradient descend | Revisiting Adversarially Learned Injection Attacks Against Recommender Systems| [paper](https://arxiv.org/abs/2008.04876); [code](https://github.com/graytowne/revisit_adv_rec)|
 |(SIGIR'20) Reinforcement Learning|Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems|[paper](https://arxiv.org/abs/2006.07934)|
 |(SIGIR'20) |Data Poisoning Attacks against Differentially Private Recommender Systems|[paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401301)|
 |(ICDE'20) Reinforcement Learning |PoisonRec:An Adaptive Data Poisoning Framework for Attacking Black-box Recommender Systems|[paper](https://ieeexplore.ieee.org/abstract/document/9101655)|
+|<sup>3</sup> (KDD'21) GAN & influence function|Triple Adversarial Learning for Influence based Poisoning Attack in Recommender Systems |[paper](https://dl.acm.org/doi/10.1145/3447548.3467335); [code](https://github.com/Daftstone/TrialAttack) |
 |(KDD'21) Probabilistic generative model; EM and Gradient Descent|Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data|[paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467233);[code](https://github.com/RUCAIBox/Recommendation-Attack-for-Partial-and-Perturbed-Data)|
 |<sup>4</sup>(Information Sciences 2021) GAN|Ready for Emerging Threats to Recommender Systems? A Graph Convolution-based Generative Shilling Attack|[paper](https://arxiv.org/abs/2107.10457)|
 |(CCS'21) Black-box|Reverse Attack: Black-box Attacks on Collaborative Recommendation|[paper](https://dl.acm.org/doi/abs/10.1145/3460120.3484805)|
