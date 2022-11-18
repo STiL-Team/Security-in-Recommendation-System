@@ -31,7 +31,7 @@ Contents:
 |(SIGIR'20) Reinforcement Learning|Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems|[paper](https://arxiv.org/abs/2006.07934)|
 |(SIGIR'20) |Data Poisoning Attacks against Differentially Private Recommender Systems|[paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401301)|
 |(ICDE'20) Reinforcement Learning |PoisonRec:An Adaptive Data Poisoning Framework for Attacking Black-box Recommender Systems|[paper](https://ieeexplore.ieee.org/abstract/document/9101655)|
-|(CIKM'20)|Attacking Recommender Systems with Augmented User Profiles|[paper](https://dl.acm.org/doi/abs/10.1145/3340531.3411884)|
+|(CIKM'20)AUSH, GAN|Attacking Recommender Systems with Augmented User Profiles|[paper](https://dl.acm.org/doi/abs/10.1145/3340531.3411884);[code](https://github.com/XMUDM/ShillingAttack)|
 |<sup>3</sup> (KDD'21) GAN & influence function|Triple Adversarial Learning for Influence based Poisoning Attack in Recommender Systems |[paper](https://dl.acm.org/doi/10.1145/3447548.3467335); [code](https://github.com/Daftstone/TrialAttack) |
 |(KDD'21) Probabilistic generative model; EM and Gradient Descent|Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data|[paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467233);[code](https://github.com/RUCAIBox/Recommendation-Attack-for-Partial-and-Perturbed-Data)|
 |<sup>4</sup>(Information Sciences'21) GAN|Ready for Emerging Threats to Recommender Systems? A Graph Convolution-based Generative Shilling Attack|[paper](https://arxiv.org/abs/2107.10457)|
