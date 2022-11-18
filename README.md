@@ -4,16 +4,25 @@
 This collection will includes attack and defense for recommendation system (RS). And also some general ideas that related.  
 
 Contents:
+- Surveys
 - Attack
 - Defense
 - General
 - Datasets
 
+## Surveys
+| Time | Paper names | Link |
+| ------ | ------ | ------|
+|(2020)|A Survey on Adversarial Recommender Systems: From Attack/Defense Strategies to Generative Adversarial Networks|[paper](https://dl.acm.org/doi/10.1145/3439729)|
+|(2022)|Threats to Training: A Survey of Poisoning Atacks and Defenses on Machine Learning Systems|[paper](https://dl.acm.org/doi/pdf/10.1145/3538707)|
+|(2022)|Adversarial Recommender Systems: Attack, Defense, and Advances|[paper](https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_9)|
+|(2022)|A Comprehensive Survey on Trustworthy Recommender Systems|[paper](https://arxiv.org/pdf/2209.10117.pdf)|
+|(2022)|Latest trends of security and privacy in recommender systems: A comprehensive review and future perspectives|[paper](https://www.sciencedirect.com/science/article/pii/S0167404822001419)|
 ## Attack
 
 | Type | Paper names | Link |
 | ------ | ------ | ------|
-|(ACM Computing Surveys '20) Survey|A Survey on Adversarial Recommender Systems: From Attack/Defense Strategies to Generative Adversarial Networks|[paper](https://dl.acm.org/doi/10.1145/3439729)|
+
 |(CIKM'19)|Data Poisoning Attacks on Cross-domain Recommendation|[paper](https://dl.acm.org/doi/abs/10.1145/3357384.3358116)|
 |<sup><font color=DarkViolet>1</font></sup>(Resys'19) GAN|Adversarial Attacks on an Oblivious Recommender|[paper](https://dl.acm.org/doi/10.1145/3298689.3347031)|
 |<sup>2</sup>(WWW'20) Influence Function|Influence Function based Data Poisoning Attacks to Top-N Recommender Systems|[paper](https://arxiv.org/abs/2002.08025)|
@@ -22,6 +31,7 @@ Contents:
 |(SIGIR'20) Reinforcement Learning|Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems|[paper](https://arxiv.org/abs/2006.07934)|
 |(SIGIR'20) |Data Poisoning Attacks against Differentially Private Recommender Systems|[paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401301)|
 |(ICDE'20) Reinforcement Learning |PoisonRec:An Adaptive Data Poisoning Framework for Attacking Black-box Recommender Systems|[paper](https://ieeexplore.ieee.org/abstract/document/9101655)|
+|(CIKM'20)|Attacking Recommender Systems with Augmented User Profiles|[paper](https://dl.acm.org/doi/abs/10.1145/3340531.3411884)|
 |<sup>3</sup> (KDD'21) GAN & influence function|Triple Adversarial Learning for Influence based Poisoning Attack in Recommender Systems |[paper](https://dl.acm.org/doi/10.1145/3447548.3467335); [code](https://github.com/Daftstone/TrialAttack) |
 |(KDD'21) Probabilistic generative model; EM and Gradient Descent|Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data|[paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467233);[code](https://github.com/RUCAIBox/Recommendation-Attack-for-Partial-and-Perturbed-Data)|
 |<sup>4</sup>(Information Sciences'21) GAN|Ready for Emerging Threats to Recommender Systems? A Graph Convolution-based Generative Shilling Attack|[paper](https://arxiv.org/abs/2107.10457)|
@@ -29,6 +39,9 @@ Contents:
 |<sup>5</sup>(ICDE'21)Copy-profile; reinforcement learning|Attacking Black-box Recommendations via Copying Cross-domain User Profiles|[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458627)|
 |(NDSS'21) rating score vector|Data Poisoning Attacks to Deep Learning Based Recommender Systems|[paper](https://arxiv.org/pdf/2101.02644.pdf);[code](https://github.com/MiracleHH/RecommPoison)|
 |(TNNLS'22)|Shilling Black-Box Recommender Systems by Learning to Generate Fake User Profiles.|[paper](https://lihui.info/doc/TNNLS22.pdf);[code](https://github.com/XMUDM/ShillingAttack)|
+|(WSDM '22)|PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion|[paper](https://dl.acm.org/doi/abs/10.1145/3488560.3498386?casa_token=USuNz00wkAUAAAAA:TEReQgIHFOR5zpi4QyZk9pm_1WiU1LNSy-LYAvDRtmvB0xGFBqmtCOhXpZmZv4QgiPO_G0PwpEkI)|
+|(ACM TIST'22)|Gray-Box Shilling Attack: An Adversarial Learning Approach|[paper](https://dl.acm.org/doi/full/10.1145/3512352?casa_token=i8WwfBzvbM4AAAAA%3A8BYP0deZ9X46ybqqQAoNmzGdKEtuQmdk0ieIfh-_yLC7R3Zi_3YNtC2L6n9DW6UuviUuBFTBRSBx)|
+|(KDD'22)|Knowledge-enhanced Black-box Attacks for Recommendations|[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539359?casa_token=o8mYvI3kovMAAAAA:891qkMp_5USTiJxnToTvFL3Cv7Bd12Fd5UqSM27ZdhLRB0gXoQ9I6CfwthbF8PxLqEaolrnUL3tT)|
 
 
 **Deal with Unnoticeable**
@@ -47,18 +60,20 @@ Contents:
 
 | Type | Paper names | Link |
 | ------ | ------ | ------|
-|(ACM Computing Surveys '20) Survey|A Survey on Adversarial Recommender Systems: From Attack/Defense Strategies to Generative Adversarial Networks|[paper](https://dl.acm.org/doi/10.1145/3439729)|
-|(Surveys,2022)|Threats to Training: A Survey of Poisoning Atacks and Defenses on Machine Learning Systems|[paper](https://dl.acm.org/doi/pdf/10.1145/3538707)|
 |(IEEE TKDE'19) Adversarial Training|Adversarial Training Towards Robust Multimedia Recommender System|[paper](https://ieeexplore.ieee.org/document/8618394)|
 |(SIGIR'20) Based on user anomaly probability |GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection |[paper](https://arxiv.org/abs/2005.10150) ; [code](https://github.com/zsjdddhr/GraphRfi)|
 |(SPAI'20)|The Majority Rule: A General Protection on Recommender System|[paper](https://dl.acm.org/doi/10.1145/3385003.3410923)|
 |(SIGIR'21)* Adversarial Poisoning Training|Fight Fire with Fire: Towards Robust Recommender Systems via Adversarial Poisoning Training |[paper](https://dl.acm.org/doi/10.1145/3404835.3462914)|
 |(ICAICA'21) Struc2Vec|User embedding-based approach for detecting group shilling attacks|[paper](https://ieeexplore.ieee.org/document/9497956)|
 |(ICAICA'21) Dual-input CNN|Detecting group shilling attacks in recommender systems based on maximum dense subtensor mining|[paper](https://ieeexplore.ieee.org/document/9498095)|
+|(FIT'22)|DefenseNet-A Resilent Network Against Adverserail Attacks On Recommendation Systems|[paper](https://ieeexplore.ieee.org/abstract/document/9701380)|
 |(Neurocomputing'22)|A deep learning based trust- and tag-aware recommender system|[paper](https://www.sciencedirect.com/science/article/pii/S0925231221017410)|
-<!-- |(SIGIR'22)Implicit feedback|Self-Guided Learning to Denoise for Robust Recommendation|[paper](https://arxiv.org/abs/2204.06832)|
-|(JCDL'22)Causal features; Distributional shifts|Causal Factorization Machine for Robust Recommendation|[paper](https://dl.acm.org/doi/abs/10.1145/3529372.3530921)| -->
-
+|(SIGIR'22)Implicit feedback|Self-Guided Learning to Denoise for Robust Recommendation|[paper](https://arxiv.org/abs/2204.06832)|
+|(JCDL'22)Causal features; Distributional shifts|Causal Factorization Machine for Robust Recommendation|[paper](https://dl.acm.org/doi/abs/10.1145/3529372.3530921)|
+|(ACM TOIS'22)|Towards Robust Neural Graph Collaborative Filtering via Structure Denoising and Embedding Perturbation|[paper](https://dl.acm.org/doi/abs/10.1145/3568396)|
+|(CIKM'22) sensitivity study|Rank List Sensitivity of Recommender Systems to Interaction Perturbations|[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557425)|
+|(TIFS'22)|Three Birds With One Stone: User Intention Understanding and Influential Neighbor Disclosure for Injection Attack Detection|[paper](https://ieeexplore.ieee.org/abstract/document/9693911?casa_token=RN8HT_MiB3gAAAAA:xWAT4bkkWkbzYjlld0l63rLleBsQh1x3bVB8LuLfOwoYiRtAFbTAIpdNPR-TDIOWMIkZjl6E)|
+|(WISE'22)|Towards Robust Recommender Systems via Triple Cooperative Defense|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20891-1_40)|
 
 ## General
 ### Graph Anomaly Detection
