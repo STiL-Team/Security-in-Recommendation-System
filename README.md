@@ -42,7 +42,7 @@ Contents:
 |(WSDM '22)|PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion|[paper](https://dl.acm.org/doi/abs/10.1145/3488560.3498386?casa_token=USuNz00wkAUAAAAA:TEReQgIHFOR5zpi4QyZk9pm_1WiU1LNSy-LYAvDRtmvB0xGFBqmtCOhXpZmZv4QgiPO_G0PwpEkI)|
 |(ACM TIST'22)|Gray-Box Shilling Attack: An Adversarial Learning Approach|[paper](https://dl.acm.org/doi/full/10.1145/3512352?casa_token=i8WwfBzvbM4AAAAA%3A8BYP0deZ9X46ybqqQAoNmzGdKEtuQmdk0ieIfh-_yLC7R3Zi_3YNtC2L6n9DW6UuviUuBFTBRSBx)|
 |(KDD'22)|Knowledge-enhanced Black-box Attacks for Recommendations|[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539359?casa_token=o8mYvI3kovMAAAAA:891qkMp_5USTiJxnToTvFL3Cv7Bd12Fd5UqSM27ZdhLRB0gXoQ9I6CfwthbF8PxLqEaolrnUL3tT)|
-
+|(TOIS'22)|Poisoning GNN-based Recommender Systems with Generative Surrogate-based Attacks|[paper](https://dl.acm.org/doi/10.1145/3567420)|
 
 **Deal with Unnoticeable**
 | Notes | Anomaly Detection | Unnoticable strategy |
@@ -83,6 +83,7 @@ Anomaly detection techniques can be employed in Defense models. Especially Graph
 | Type | Paper names | Link |
 | ------ | ------ | ------|
 |Survey(2021)| A Comprehensive Survey on Graph Anomaly Detection with Deep Learning |[paper](https://arxiv.org/pdf/2106.07178.pdf)|
+|Survey(20212)|Graph Learning for Anomaly Analytics: Algorithms, Applications, and Challenges|[paper](https://dl.acm.org/doi/abs/10.1145/3570906)|
 |(UMUAI'09) PCASelectUsers; Unsupervised;Bipartite |Unsupervised strategies for shilling detection and robust collaborative filtering|[paper](https://link.springer.com/article/10.1007/s11257-008-9050-4)|
 |(RecSys’11) SemiSAD; Semi-Suppervised;Bipartite|Semi-SAD: Applying Semi-supervised Learning to Shilling Attack Detection|[paper](https://dl.acm.org/doi/pdf/10.1145/2043932.2043985)|
 |(ICDM'12) Mutual Dependency; Unsupervised; Bipartite|Detecting Anomalies in Bipartite Graphs with Mutual Dependency Principles|[paper](https://ieeexplore.ieee.org/document/6413905)|
