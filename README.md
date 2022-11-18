@@ -37,7 +37,7 @@ Contents:
 |<sup>4</sup>(Information Sciences'21) GAN|Ready for Emerging Threats to Recommender Systems? A Graph Convolution-based Generative Shilling Attack|[paper](https://arxiv.org/abs/2107.10457)|
 |(CCS'21) Black-box|Reverse Attack: Black-box Attacks on Collaborative Recommendation|[paper](https://dl.acm.org/doi/abs/10.1145/3460120.3484805)|
 |<sup>5</sup>(ICDE'21)Copy-profile; reinforcement learning|Attacking Black-box Recommendations via Copying Cross-domain User Profiles|[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458627)|
-|(NDSS'21) rating score vector|Data Poisoning Attacks to Deep Learning Based Recommender Systems|[paper](https://arxiv.org/pdf/2101.02644.pdf);[code](https://github.com/MiracleHH/RecommPoison)|
+|(NDSS'21) sample probability:predicted rating scores|Data Poisoning Attacks to Deep Learning Based Recommender Systems|[paper](https://arxiv.org/pdf/2101.02644.pdf);[code](https://github.com/MiracleHH/RecommPoison)|
 |(TNNLS'22)|Shilling Black-Box Recommender Systems by Learning to Generate Fake User Profiles.|[paper](https://lihui.info/doc/TNNLS22.pdf);[code](https://github.com/XMUDM/ShillingAttack)|
 |(WSDM '22)|PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion|[paper](https://dl.acm.org/doi/abs/10.1145/3488560.3498386?casa_token=USuNz00wkAUAAAAA:TEReQgIHFOR5zpi4QyZk9pm_1WiU1LNSy-LYAvDRtmvB0xGFBqmtCOhXpZmZv4QgiPO_G0PwpEkI)|
 |(ACM TIST'22)|Gray-Box Shilling Attack: An Adversarial Learning Approach|[paper](https://dl.acm.org/doi/full/10.1145/3512352?casa_token=i8WwfBzvbM4AAAAA%3A8BYP0deZ9X46ybqqQAoNmzGdKEtuQmdk0ieIfh-_yLC7R3Zi_3YNtC2L6n9DW6UuviUuBFTBRSBx)|
