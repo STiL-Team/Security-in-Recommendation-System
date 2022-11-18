@@ -29,7 +29,7 @@ Contents:
 |(CCS'21) Black-box|Reverse Attack: Black-box Attacks on Collaborative Recommendation|[paper](https://dl.acm.org/doi/abs/10.1145/3460120.3484805)|
 |<sup>5</sup>(ICDE'21)Copy-profile; reinforcement learning|Attacking Black-box Recommendations via Copying Cross-domain User Profiles|[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458627)|
 |(NDSS'21) rating score vector|Data Poisoning Attacks to Deep Learning Based Recommender Systems|[paper](https://arxiv.org/pdf/2101.02644.pdf);[code](https://github.com/MiracleHH/RecommPoison)|
-|(IEEE Transactions on Neural Networks and Learning Systems )|Shilling Black-Box Recommender Systems by Learning to Generate Fake User Profiles." (2022).|[paper](https://lihui.info/doc/TNNLS22.pdf);[code](https://github.com/XMUDM/ShillingAttack)|
+|(TNNLS'22)|Shilling Black-Box Recommender Systems by Learning to Generate Fake User Profiles." (2022).|[paper](https://lihui.info/doc/TNNLS22.pdf);[code](https://github.com/XMUDM/ShillingAttack)|
 
 
 **Deal with Unnoticeable**
