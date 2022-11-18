@@ -24,11 +24,13 @@ Contents:
 |(SIGIR'20) Reinforcement Learning|Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems|[paper](https://arxiv.org/abs/2006.07934)|
 |(SIGIR'20) |Data Poisoning Attacks against Differentially Private Recommender Systems|[paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401301)|
 |(ICDE'20) Reinforcement Learning |PoisonRec:An Adaptive Data Poisoning Framework for Attacking Black-box Recommender Systems|[paper](https://ieeexplore.ieee.org/abstract/document/9101655)|
-|(KDD'21) Probabilistic generative model; EM and Gradient Descent|Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data|[paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467233)|
+|(KDD'21) Probabilistic generative model; EM and Gradient Descent|Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data|[paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467233);[code](https://github.com/RUCAIBox/Recommendation-Attack-for-Partial-and-Perturbed-Data)|
 |<sup>4</sup>(Information Sciences 2021) GAN|Ready for Emerging Threats to Recommender Systems? A Graph Convolution-based Generative Shilling Attack|[paper](https://arxiv.org/abs/2107.10457)|
 |(CCS'21) Black-box|Reverse Attack: Black-box Attacks on Collaborative Recommendation|[paper](https://dl.acm.org/doi/abs/10.1145/3460120.3484805)|
 |<sup>5</sup>(ICDE'21)Copy-profile; reinforcement learning|Attacking Black-box Recommendations via Copying Cross-domain User Profiles|[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458627)|
 |(NDSS'21) rating score vector|Data Poisoning Attacks to Deep Learning Based Recommender Systems|[paper](https://arxiv.org/pdf/2101.02644.pdf);[code](https://github.com/MiracleHH/RecommPoison)|
+|(IEEE Transactions on Neural Networks and Learning Systems )|Shilling Black-Box Recommender Systems by Learning to Generate Fake User Profiles." (2022).|[paper](https://lihui.info/doc/TNNLS22.pdf);[code](https://github.com/XMUDM/ShillingAttack)|
+
 
 **Deal with Unnoticeable**
 | Notes | Anomaly Detection | Unnoticable strategy |
