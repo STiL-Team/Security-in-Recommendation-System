@@ -60,7 +60,7 @@ Contents:
 
 | Type | Paper names | Link |
 | ------ | ------ | ------|
-|(SIGIR'18)adversarial training on parameters|Adversarial Personalized Ranking for Recommendation|[paper](https://dl.acm.org/doi/10.1145/3209978.3209981)|
+|(SIGIR'18)adversarial training on parameters|Adversarial Personalized Ranking for Recommendation|[paper](https://dl.acm.org/doi/10.1145/3209978.3209981);[code](https://github.com/hexiangnan/adversarial_personalized_ranking)|
 |(IEEE TKDE'19) Adversarial Training|Adversarial Training Towards Robust Multimedia Recommender System|[paper](https://ieeexplore.ieee.org/document/8618394)|
 |(SIGIR'20) Based on user anomaly probability |GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection |[paper](https://arxiv.org/abs/2005.10150) ; [code](https://github.com/zsjdddhr/GraphRfi)|
 |(SPAI'20)|The Majority Rule: A General Protection on Recommender System|[paper](https://dl.acm.org/doi/10.1145/3385003.3410923)|
