@@ -89,7 +89,7 @@ Anomaly detection techniques can be employed in Defense models. Especially Graph
 | Type | Paper names | Link |
 | ------ | ------ | ------|
 |Survey(2021)| A Comprehensive Survey on Graph Anomaly Detection with Deep Learning |[paper](https://arxiv.org/pdf/2106.07178.pdf)|
-|Survey(20212)|Graph Learning for Anomaly Analytics: Algorithms, Applications, and Challenges|[paper](https://dl.acm.org/doi/abs/10.1145/3570906)|
+|Survey(2022)|Graph Learning for Anomaly Analytics: Algorithms, Applications, and Challenges|[paper](https://dl.acm.org/doi/abs/10.1145/3570906)|
 |(UMUAI'09) PCASelectUsers; Unsupervised;Bipartite |Unsupervised strategies for shilling detection and robust collaborative filtering|[paper](https://link.springer.com/article/10.1007/s11257-008-9050-4)|
 |(RecSys’11) SemiSAD; Semi-Suppervised;Bipartite|Semi-SAD: Applying Semi-supervised Learning to Shilling Attack Detection|[paper](https://dl.acm.org/doi/pdf/10.1145/2043932.2043985)|
 |(ICDM'12) Mutual Dependency; Unsupervised; Bipartite|Detecting Anomalies in Bipartite Graphs with Mutual Dependency Principles|[paper](https://ieeexplore.ieee.org/document/6413905)|
